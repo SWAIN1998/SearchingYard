@@ -47,7 +47,9 @@ There is Logout button whenuser click on the logout button He/She redirect to lo
 
 - `React JS` 
 -`Module css`
--`react-spinner`
+-`Node JS`
+-`Express JS`
+-`Mongodb`
 
 
 ****deploy link***
