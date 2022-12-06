@@ -8,7 +8,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(cors());
 
-app.use("/products", productRouter);
+app.use("/", productRouter);
 
 app.listen(8080, async () => {
   try {
