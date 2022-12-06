@@ -1,10 +1,10 @@
 # SearchingYard
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#HomePage
+### `HomePage`
 ![3](https://miro.medium.com/max/828/1*umaki-0CQJE0A5VuMKmvLw.webp)
 
-#ProductPosting
+### `ProductPosting`
 ![3](https://miro.medium.com/max/828/1*8UTAOHSeEhKDiX9edPY_lw.webp)
 
 ## Available Scripts
